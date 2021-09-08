@@ -1,0 +1,6 @@
+[submodule "social-networking-service-fe"]
+	path = social-networking-service-fe
+	url = https://github.com/saianirud/social-networking-service-fe.git
+[submodule "social-networking-service-be"]
+	path = social-networking-service-be
+	url = https://github.com/saianirud/social-networking-service-be.git
